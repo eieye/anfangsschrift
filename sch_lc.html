@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>"sch" (GERMAN MTBG)</title>
+
+<style>
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+	background-color: rgba(0 0 5 / .70);
+}
+
+/* KEEP BACKGROUND SAME COLOR IN FULLSCREEN_MODE */
+body::backdrop {
+  background-color: rgba(0 0 5 / .70);
+}
+
+/* (FOR MULTIPLE GLYPHS) */
+.template_wrapper {
+	position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100vw;
+}
+
+/* VISIBLE GLYPH TEMPLATE */
+.typebox rect {
+	box-sizing: border-box;
+	fill: none;
+	stroke: rgba(255 0 0 / 1);
+	stroke-width: 1px;
+}
+.typebox line {
+	fill: none;
+	stroke: rgba(255 255 0 / 1);
+	stroke-width: 1px;
+}
+.glyph {
+	fill: none;
+	stroke: rgba(255 255 255 / .9); /* .3 */
+	stroke-width: 150px;
+	stroke-linecap: round; /* butt square round */
+	stroke-linejoin: round; /* bevel miter round */
+}
+</style>
+
+</head>
+<body>
+
+<div class="template_wrapper">
+
+<!--															W_LC														-->
+<!--
+	<svg id="w_lc" viewBox="0 0 849 1480" xmlns="http://www.w3.org/2000/svg">
+		<g class="typebox">
+			<rect width="849" height="1480" fill="none" stroke="red" stroke-width="1px"/>
+			<line x1="0" y1="321" x2="849" y2="321" stroke="blue" stroke-width="1"/>
+			<line x1="0" y1="481" x2="849" y2="481" stroke="blue" stroke-width="1"/>
+			<line x1="0" y1="982" x2="849" y2="982" stroke="blue" stroke-width="1"/>
+		</g>
+		<g class="glyph">		
+			<path d="M 69 479.5 C 69 479.5 251.5 982 251.5 982
+			C 251.5 982 434.5 479.5 434.5 479.5
+			C 434.5 479.5 617 982 617 982
+			C 617 982 800 479.5 800 479.5"/>
+		</g>
+	</svg>
+-->
+
+<!--															SCH_LC														-->
+
+
+
+
+	<svg viewBox="0 0 1650 1480" xmlns="http://www.w3.org/2000/svg">
+<!-- TYPEMETRICS -->
+		<g class="typebox">
+			<rect width="1650" height="1480" fill="none" stroke="red" stroke-width="1px" />
+			<line x1="0" y1="321" x2="1650" y2="321" stroke="blue" stroke-width="1" />
+			<line x1="0" y1="481" x2="1650" y2="481" stroke="blue" stroke-width="1" />
+			<line x1="0" y1="982" x2="1650" y2="982" stroke="blue" stroke-width="1" />
+		</g>
+<!-- GLYPH "SCH_LC" -->
+		<g class="glyph">		
+			<path d="M 400 506 C 400 506, 359 477.5, 261 477.5
+			C 168 477.5, 104 542, 104 598
+			C 104 655.5, 145 705, 261 724.5
+			C 382 744.5, 424.5 803, 424.5 860.5
+			C 424.5 924, 367 987.5, 261 987.50
+			C 148 987.5, 89.5 948, 89.5 948" />
+			<path d="M 972.5 561 C 931 507, 869 480, 811 480
+			C 712 480, 595 565, 595 728.5
+			C 595 901, 712 984, 811 984
+			C 875 984, 944 953, 985.5 885" />
+			<path d="M 1186 270 C 1186 270.5, 1186 985.5, 1186 985.5" />
+			<path d="M 1191.5 605 C 1191.5 605, 1255 480.5, 1383 480.5
+			C 1466.5 480.5, 1557 532, 1557 644
+			C 1557 744, 1557 985.5, 1557 985.5" />
+		</g>
+	</svg>
+
+
+</div><!-- END WRAPPER -->
+
+</body>
+</html>
