@@ -1,0 +1,65 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   g alternate2 (Ant-g)
+ 1,  620,    0,  TBUR,   typebox upper right
+ 2,  620, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  620,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  620,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  620,  321,  VHR,    cap-height (right)
+10,  114.5,  0,  SPCL,   space left (Vorbreite)
+11,  552.5,  0,  SPCR,   space right (Nachbreite)
+12,  217,  755,   a1,    anchor 1
+13,  248,  773,   c1,    control 1
+14,  283,  780.5, c2,    control 2
+15, 321.5, 780.5, a2,    anchor 2
+16, 321.5, 780.5, a3,    anchor 3
+17,  423,  780.5, c3,    control 3
+18,  503,  715,   c4,    control 4
+19,  503,  630,   a4,    anchor 4
+20,  503,  630,   a5,    anchor 5
+21,  503,  546,   c5,    control 5
+22,  423,  480,   c6,    control 6
+23, 321.5, 480,   a6,    anchor 6
+24, 321.5, 480,   a7,    anchor 7
+25,  222,  480,   c7,    control 7
+26, 140.5, 545,   c8,    control 8
+27, 140.5, 630,   a8,    anchor 8
+28, 140.5, 630,   a9,    anchor 9
+29, 140.5, 678,   c9,    control 9
+30,  169,  723,   c10,   control 10
+31,  210,  750.5, a10,   anchor 10
+32,  190,  750.5, a11,   anchor 11
+33,  176,  769,   c11,   control 11
+34,  138,  807,   c12,   control 12
+35,  138,  854,   a12,   anchor 12
+36,  138,  854,   a13,   anchor 13
+37,  138,  904,   c13,   control 13
+38,  183,  949.5, c14,   control 14
+39,  226,  949.5, a14,   anchor 14
+40,  226,  949.5, a15,   anchor 15
+41,  270,  949.5, c15,   control 15
+42,  300,  949.5, c16,   control 16
+43,  324,  949.5, a16,   anchor 16
+44,  324,  949.5, a17,   anchor 17
+45,  324,  949.5, c17,   control 17
+46, 552.5, 932,   c18,   control 18
+47, 552.5, 1083,  a18,   anchor 18
+48, 552.5, 1083,  a19,   anchor 19
+49, 552.5, 1191.5, c19,  control 19
+50,  429, 1234,   c20,   control 20
+51,  324, 1234,   a20,   anchor 20
+52,  324, 1234,   a21,   anchor 21
+53, 177.5, 1234,  c21,   control 21
+54, 114.5, 1177,  c22,   control 22
+55, 114.5, 1090,  a22,   anchor 22
+56, 114.5, 1090,  a23,   anchor 23
+57, 114.5, 990.5, c23,   control 23
+58, 217.5, 956.5, c24,   control 24
+59, 217.5, 956.5, a24,   anchor 24
+60, 467.5, 524,   a25,   anchor 25 <Schniepel>
+61, 467.5, 524,   c25,   control 25
+62,  549,  481,   c26,   control 26
+63,  549,  481,   a26,   anchor 26

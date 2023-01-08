@@ -1,0 +1,65 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   ß ss-ligature alternate (lower case)
+ 1,  634,    0,  TBUR,   typebox upper right
+ 2,  634, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  634,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  634,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  634,  321,  VHR,    cap-height (right)
+10,  126.5,  0,  SPCL,   space left (Vorbreite)
+11,  548.5,  0,  SPCR,   space right (Nachbreite)
+12, 126.5, 985.5, a1,    anchor 1
+13, 126.5, 985.5, c1,    control 1
+14, 126.5, 455,   c2,    control 2 (+65)
+15, 126.5, 390,   a2,    anchor 2
+16, 126.5, 390,   a3,    anchor 3
+17, 126.5, 325,   c3,    control 3
+18,  179,  270.5, c4,    control 4
+19,  246,  270.5, a4,    anchor 4
+20,  246,  270.5, a5,    anchor 5
+21,  246,  270.5, c5,    control 5
+22, 297.5, 270.5, c6,    control 6
+23, 297.5, 270.5, a6,    anchor 6
+24, 297.5, 270.5, a7,    anchor 7
+25,  366,  270.5, c7,    control 7
+26,  417,  324,   c8,    control 8
+27,  417,  390,   a8,    anchor 8
+28,  417,  390,   a9,    anchor 9
+29,  417,  452,   c9,    control 9
+30,  358,  487,   c10,   control 10 #o----#
+31,  346,  495.5, a10,   anchor 10 #--x--#
+32,  346,  495.5, a11,   anchor 11 #--x--#
+33,  302,  531,   c11,   control 11 #----o#
+34,  281,  553,   c12,   control 12
+35,  281,  599.5, a12,   anchor 12
+36,  281,  599.5, a13,   anchor 13
+37,  281,  653,   c13,   control 13
+38,  327,  703,   c14,   control 14 #o----#
+39,  405,  718.5, a14,   anchor 14 #--x--#
+40,  405,  718.5, a15,   anchor 15 #--x--#
+41,  507,  739,   c15,   control 15 #----o#
+42, 548.5, 795,   c16,   control 16
+43, 548.5, 850.5, a16,   anchor 16
+44, 548.5, 850.5, a17,   anchor 17
+45, 548.5, 919,   c17,   control 17
+46,  483,  987.5, c18,   control 18
+47, 389.5, 987.5, a18,   anchor 18
+48, 389.5, 987.5, a19,   anchor 19
+49,  331,  987.5, c19,   control 19
+50,  283,  960,   c20,   control 20
+51,  279,  958,   a20,   anchor 20
+52,    #,    #,   #,     anchor 21
+53,    #,    #,   #,     control 21
+54,    #,    #,   #,     control 22
+55,    #,    #,   #,     anchor 22
+56,    #,    #,   #,     anchor 23
+57,    #,    #,   #,     control 23
+58,    #,    #,   #,     control 24
+59,    #,    #,   #,     anchor 24
+60,    #,    #,   #,     anchor 25
+61,    #,    #,   #,     control 25
+62,    #,    #,   #,     control 26
+63,    #,    #,   #,     anchor 26
