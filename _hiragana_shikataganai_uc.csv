@@ -1,0 +1,198 @@
+id,    x,   y,	pt,	hira(1480)_shi-ka-ta-ga-na-i.csv
+ 0,    0,   0,	TBUL,	typebox upper left
+ 1, 6104,   0,	TBUR,	typebox upper right ##(TRue WIDTH) 6573##
+ 2, 6104, 1480,	TBLR,	typebox lower right
+ 3,    0, 1480,	TBLL,	typebox lower left
+ 4,    0, 982,	BLL,	baseline (left)
+ 5, 6104, 982,	BLR,	baseline (right)
+ 6,    0, 481,	XHL,	x-height (left)
+ 7, 6104, 481,	XHR,	x-height (right)
+ 8,    0, 321,	VHL,	cap-height (left)
+ 9, 6104, 321,	VHR,	cap-height (right)
+10,  196,   0,  SPCL,	point space left (Vorbreite)
+11, 5965,   0,  SPCR,   point space right (Nachbreite)
+
+12,  196, 273,  a1,	anchor 1 ##SHI##
+13,  196, 273,  c1,	control 1
+14, 195, 761.5, c2,	control 2
+15,  200, 817,	a2,	anchor 2
+
+16,  200, 817,	a3,	anchor 3
+17,  205, 873,  c3,	control 3
+18,  234, 990,  c4,	control 4
+19,  416, 990,	a4,	anchor 4
+
+20,  416, 990,  a5,	anchor 5
+21, 626.5, 990,	c5,	control 5
+22,  729, 809,	c6,	control 6
+23,  773, 684,	a6,	anchor 6
+
+24, 1027, 484,	a1,	anchor 1 ##KA## +939
+25, 1027,  484,	c1,	control 1
+26, 1298, 445,  c2,	control 2
+27, 1374, 458,	a2,	anchor 2
+
+28, 1374, 458,	a3,	anchor 3
+29, 1469, 475,	c3,	control 3
+30, 1505, 539,  c4,	control 4
+31, 1511, 611,	a4,	anchor 4
+
+32, 1511, 611,	a5,	anchor 5
+33, 1519, 714,	c5,	control 5
+34, 1511.5, 913,c6,	control 6
+35, 1417, 975,	a6,	anchor 6
+
+36, 1417, 975,  a7,	anchor 7
+37, 1363, 1011,	c7,	control 7
+38, 1244, 970,  c8,	control 8
+39, 1244, 970,  a8,	anchor 8
+
+40, 1295, 260.5, a9,	anchor 9
+41, 1250, 502,  c9,	control 9
+42, 1165.5, 762, c10,	control 10
+43, 1044, 990,	a10,	anchor 10
+
+44, 1621, 394,	a11,	anchor 11
+45, 1675, 449,  c11,	control 11
+46, 1761.5, 615, c12,	control 12
+47, 1786, 743,	a12,	anchor 12
+
+48, 1980, 408,	a1,	anchor 1 ##TA## +1878
+49, 2077, 407,	c1,	control 1
+50, 2341.5, 390, c2,	control 2
+51, 2421, 382,	a2,	anchor 2
+
+52, 2213, 235,	a3,	anchor 3
+53, 2186, 477,	c3,	control 3
+54, 2099, 817,  c4,	control 4
+55, 2023, 992,	a4,	anchor 4
+
+56, 2341.5, 553, a5,	anchor 5
+57, 2431, 544,	c5,	control 5
+58, 2610, 536,	c6,	control 6
+59, 2700, 536,	a6,	anchor 6
+
+60, 2341, 773,  a7,	anchor 7
+61, 2341, 773,	c7,	control 7
+62, 2283, 853,  c8,	control 8
+63, 2315, 911,  a8,	anchor 8
+
+64, 2315, 911,	a9,	anchor 9
+65, 2363, 997,  c9,	control 9
+66, 2551, 995.5, c10,	control 10
+67, 2705, 971.5, a10,	anchor 10
+
+68, 2879,  484,	a1,	anchor 1 ##GA## +2817
+69, 2879,  484,	c1,	control 1
+70, 3150, 445,  c2,	control 2
+71, 3226, 458,	a2,	anchor 2
+
+72, 3226, 458,	a3,	anchor 3
+73, 3321, 475,	c3,	control 3
+74, 3357, 539,  c4,	control 4
+75, 3363, 611,	a4,	anchor 4
+
+76, 3363, 611,	a5,	anchor 5
+77, 3371, 714,	c5,	control 5
+78, 3363.5, 913, c6,	control 6
+79, 3269, 975,	a6,	anchor 6
+
+80, 3269, 975,  a7,	anchor 7
+81, 3215, 1011,	c7,	control 7
+82, 3096, 970,  c8,	control 8
+83, 3096, 970,  a8,	anchor 8
+
+84, 3147, 260.5, a9,	anchor 9
+85, 3102, 502,  c9,	control 9
+86, 3017.5, 762, c10,	control 10
+87, 2896, 990,	a10,	anchor 10
+
+88, 3473, 394,	a11,	anchor 11
+89, 3527, 449,  c11,	control 11
+90, 3613.5, 615, c12,	control 12
+91, 3638, 743,	a12,	anchor 12
+
+92, 3531, 274,	a13,	anchor 13 ##GA DIA##
+93, 3561, 306,  c13,	control 13
+94, 3574, 325,  c14,	control 14
+95, 3595, 363,	a14,	anchor 14
+
+96, 3624, 218,  a15,	anchor a15 ##GA DIA##
+97, 3650, 249.5, c15,	control c15
+98, 3665, 270.5, c16,	control c16
+99, 3687, 308,  a16,	anchor a16
+
+100, 3858.5, 416, a1,	anchor 1 ##NA## +3756
+101, 3937.5, 418, c1,	control 1
+102, 4156, 406.5, c2,	control 2
+103, 4235, 394,	a2,	anchor 2
+
+104, 4094, 233,	a3,	anchor 3
+105, 4069, 426,	c3,	control 3
+106, 3932.5, 741, c4,	control 4
+107, 3863.5, 848, a4,	anchor 4
+
+108, 4375, 376,	a5,	anchor 5
+109, 4442, 399,	c5,	control 5
+110, 4520, 440,	c6,	control 6
+111, 4579, 483,	a6,	anchor 6
+
+112, 4384, 543.5, a7,	anchor 7
+113, 4384, 543.5, c7,	control 7
+114, 4403, 830.5, c8,	control 8
+115, 4403, 830.5, a8,	anchor 8
+
+116, 4403, 830.5, a9,	anchor 9
+117, 4407.5, 899, c9,	control 9
+118, 4391, 985,  c10,	control 10
+119, 4252, 985,	a10,	anchor 10
+
+120, 4252, 985,	a11,	anchor 11
+121, 4095, 985,  c11,	control 11
+122, 4086, 892,  c12,	control 12
+123, 4086, 867,	a12,	anchor 12
+
+124, 4086, 867,	a13,	anchor 13
+125, 4086, 841,  c13,	control 13
+126, 4116, 752,  c14,	control 14
+127, 4249, 752,	a14,	anchor 14
+
+128, 4249, 752,  a15,	anchor a15
+129, 4410, 752,  c15,	control c15
+130, 4535, 860,  c16,	control c16
+131, 4583, 910,  a16,	anchor a16
+
+132, 4814.5, 355.5, a1,	anchor 1 ##I## +4695
+133, 4776, 662,  c1,	control 1
+134, 4809, 928,  c2,	control 2
+135, 4961, 963,	a2,	anchor 2
+
+136, 4961, 963,	a3,	anchor 3
+137, 5081, 992.5, c3,	control 3
+138, 5110, 771,  c4,	control 4
+139, 5110, 771,	a4,	anchor 4
+
+140, 5376.5, 366.5, a5,	anchor 5
+141, 5453, 458,	c5,	control 5
+142, 5525, 641,	c6,	control 6
+143, 5534, 844,	a6,	anchor 6
+
+144, 5866, 867,	a1,	anchor 1 ##DOT## +5634
+145, 5921, 867,	c1,	control 1
+146, 5965, 910,  c2,	control 2
+147, 5965, 966,	a2,	anchor 2
+
+148, 5965, 966,	a3,	anchor 3
+149, 5965, 1020, c3,	control 3
+150, 5921, 1064, c4,	control 4
+151, 5866, 1064, a4,	anchor 4
+
+152, 5866, 1064, a5,	anchor 5
+153, 5812, 1064, c5,	control 5
+154, 5769, 1020, c6,	control 6
+155, 5769, 966,	a6,	anchor 6
+
+156, 5769, 966,  a7,	anchor 7
+157, 5769, 910,	c7,	control 7
+158, 5812, 867,  c8,	control 8
+159, 5866, 867,  a8,	anchor 8
