@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+	background-color: rgba(0 0 5 / .70);
+}
+
+/* KEEP BACKGROUND SAME COLOR IN FULLSCREEN_MODE */
+body::backdrop {
+  background-color: rgba(0 0 5 / .70);
+}
+
+/* (FOR SINGLE GLYPH) */
+.template_wrapper {
+	position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+/* SCALE TO WINDOW HEIGHT */
+svg {
+  height: 100%;
+}
+
+/* GLYPH */
+.typebox rect {
+	box-sizing: border-box;
+	fill: none;
+	stroke: rgba(255 0 0 / 1);
+	stroke-width: 2px;
+}
+.typebox line {
+	fill: none;
+	stroke: rgba(255 255 0 / 1);
+	stroke-width: 1px;
+}
+.glyph {
+	fill: none;
+	stroke: rgba(255 255 255 / .9); /* .3 */
+	stroke-width: 100px; /* 125px */
+	stroke-linecap: round; /* butt square round */
+	stroke-linejoin: round; /* bevel miter round */
+}
+
+/* FONT COLOR (SELECTION FILENAME) */
+input {
+	color: yellow;
+	padding: 2px;
+	position: absolute;
+  top: 0px;
+  left: 0px;
+}
