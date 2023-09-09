@@ -1,6 +1,6 @@
 # Anfangsschrift (09-SEP-2023)
-File <a href="https://github.com/eieye/anfangsschrift/blob/main/full_alphabet.html" target="_blank">&ldquo;full_alphabet.html&rdquo;</a> contains all German upper and lowercase glyphs (A-Z ÄÖÜ, a-z äöüß) in svg/html format.
-(NOTE top row shows &ldquo;Anfangsschrift&rdquo; bottom row your device's system-ui font)
+File <a href="https://github.com/eieye/anfangsschrift/blob/main/full_alphabet.html">&ldquo;full_alphabet.html&rdquo;</a> contains all German upper and lowercase glyphs (A-Z ÄÖÜ, a-z äöüß) in svg/html format.
+(Preview <a href="https://www.jenskreitmeyer.de/alpha/ANFANGSSCHRIFT/full_alphabet.html" target="_blank">here</a> NOTE top row shows &ldquo;Anfangsschrift&rdquo; bottom row your device's system-ui font)
 
 &ldquo;Anfangsschrift&rdquo; is a sans-serif mono-linear font intended for foundational writing/reading instruction and practice, ie &lsquo;cognitive automation&rsquo; of the alphabet (and phonics). It adheres to teaching an unconnected/non-cursive (&lsquo;print-style&rsquo;) handwriting.
 
@@ -12,3 +12,5 @@ The font can be used for animation (stroke-wise instruction) and tracing (touch-
 
 Letter shapes are defined by cubic bezier segments describing a single centerline. To convert this (svg) to a normal outline font, use the template from this repository, set a fixed line weight and import the curves in your favorite vector/glyphs editor.
 Figures (indo-arabic numerals), punctuation marks (?!) and (&) some special symbols (@#) will be added in the next version.
+
+
