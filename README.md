@@ -1,8 +1,13 @@
-# anfangsschrift (2018)
-CSV to SVG conversion for a latin glyph-set based on center-line<br>
---work in progress--
-repository contains csv-files for a complete Latin (German) alphabet character set (A-Z a-z AäÖöÜüß) as separate chars
-plus some alternates (lower case "a" "g" "ß" and upper case "G" "I" "M"). 
-CSV can be imported and parsed to SVG with the included utility<br>
---import_csv.html/css/js-- download the release<br>
---tbd-- make styles interactive for weight, color, line-cap etc.
+# anfangsschrift (09-SEP-2023)
+File <a href="https://www.jenskreitmeyer.de/alpha/ANFANGSSCHRIFT/full_alphabet.html" target="_blank">&ldquo;full_alphabet.html&rdquo;</a> contains the glyphs in svg/html format, for the current German characterset (A-Z ÄÖÜ, a-z äöüß) of &ldquo;Anfangsschrift&rdquo;.
+(NOTE top row: &ldquo;Anfangsschrift&rdquo; bottom row: your device's system-ui font)
+
+&ldquo;Anfangsschrift&rdquo; is a sans-serif mono-linear font intended for foundational writing/reading instruction and practice, ie &lsquo;cognitive automation&rsquo; of the alphabet (and phonics). It adheres to teaching an unconnected/non-cursive (&lsquo;print-style&rsquo;) handwriting.
+Letter shapes are deliberately &lsquo;prototypical&rsquo; (ie generic) for maximum recognition, defining a &lsquo;mean envelope&rsquo; of each character's &lsquo;principal components&rsquo;. &lsquo;Exaggerated&rsquo; features like extra-long ascenders or &lsquo;curls&rsquo; on all connectable stem ends, that supposedly aid writing fluency or legibility, are generally avoided. Emphasis is on &lsquo;smooth&rsquo; proportions inducing hand-writing and building graphomotor intuition for stroke sequence and direction, based on a slightly narrower &lsquo;less geometric&rsquo; overall width.
+
+The font can be used for animation (stroke-wise instruction) and tracing (touch-responsive overwriting), using vanilla CSS-animation attributes and Javascript. A demo is linked at <a href="https://www.jenskreitmeyer.de/alpha/beta/ANIMATION_MOBILE/loadglyphs.html">here</a> (in desktop browsers turn on touch-sim).
+Letter shapes are defined by cubic bezier segments describing a single centerline. To convert this (svg) to a normal outline font, use the template from this repository, set a fixed line weight and import the curves in your favorite vector/glyphs editor.
+Figures (indo-arabic numerals), punctuation marks (?!) and (&) some special symbols (@#) will be added in the next version.
+
+
+
