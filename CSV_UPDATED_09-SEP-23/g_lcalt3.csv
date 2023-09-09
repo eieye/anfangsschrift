@@ -1,0 +1,68 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   g_lcalt3 010923 REVISION
+ 1,  620,    0,  TBUR,   typebox upper right
+ 2,  620, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  620,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  620,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  620,  321,  VHR,    cap-height (right)
+10,   97,    0,  SPCL,   space left (Vorbreite)
+11,  565,    0,  SPCR,   space right (Nachbreite)
+
+12,  170,  722,   a1,    anchor 1
+13,  141,  694,   c1,    control 1
+14,  123,  664,   c2,    control 2
+15,  123,  620,   a2,    anchor 2
+
+16,  123,  620,   a3,    anchor 3
+17,  123,  532,   c3,    control 3
+18,  204,  480,   c4,    control 4
+19,  304,  480,   a4,    anchor 4
+
+20,  304,  480,   a5,    anchor 5
+21,  403,  480,   c5,    control 5
+22,  485,  532,   c6,    control 6
+23,  485,  621,   a6,    anchor 6
+
+24,  485,  621,   a7,    anchor 7
+25,  485,  755,   c7,    control 7
+26,  321,  754,   c8,    control 8
+27,  235,  754,   a8,    anchor 8
+
+28,  235,  754,   a9,    anchor 9
+29,  150,  754,   c9,    control 9
+30,  118,  813,   c10,   control 10
+31,  121,  854,   a10,   anchor 10
+
+32,  121,  854,   a11,   anchor 11
+33,  124,  894,   c11,   control 11
+34,  160,  949,   c12,   control 12
+35,  265,  949,   a12,   anchor 12
+
+36,  265,  949,   a13,   anchor 13
+37,  368,  949,   c13,   control 13
+38,  535,  932,   c14,   control 14
+39,  535, 1082,   a14,   anchor 14
+
+40,  535, 1082,   a15,   anchor 15
+41,  535, 1192,   c15,   control 15
+42,  410, 1234,   c16,   control 16
+43,  307, 1234,   a16,   anchor 16
+
+44,  307, 1234,   a17,   anchor 17
+45,  159, 1234,   c17,   control 17
+46,   97, 1178,   c18,   control 18
+47,   97, 1089,   a18,   anchor 18
+
+48,   97, 1089,   a19,   anchor 19
+49,   97, 1022,   c19,   control 19
+50,  145,  984,   c20,   control 20
+51,  175,  968,   a20,   anchor 20
+
+60,  485,  481,   a25,   anchor 25 <Schniepel>
+61,  505,  481,   c25,   control 25 X+20
+62,  545,  481,   c26,   control 26 X-20
+63,  565,  481,   a26,   anchor 26

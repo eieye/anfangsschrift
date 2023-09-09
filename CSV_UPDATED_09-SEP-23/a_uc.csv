@@ -1,0 +1,25 @@
+   wid,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   a3_uc EDIT 28AUG23
+ 1,  675,    0,  TBUR,   typebox upper right
+ 2,  675, 1480, TBLR,    typebox lower right
+ 3,    0, 1480, TBLL,    typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  675,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  675,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  675,  321,  VHR,    cap-height (right)
+10,   70,    0,  SPCL,   space left (Vorbreite)
+11,  605.5,  0,  SPCR,   space right (Nachbreite)
+12,   70,  985.5,  a1,   anchor 1
+13,   90,  935.5,  c1,   control 1
+14,  317.5,  368,  c2,   control 2
+15,  337.5,  318,  a2,   anchor 2
+16,  337.5,  318,  a3,   anchor 3
+17,  357.5,  368,  c3,   control 3
+18, 585.5, 935.5,  c4,   control 4
+19, 605.5, 985.5,  a4,   anchor 4
+20,  153,  784,   a5,    anchor 5
+21,  253,  784,   c5,    control 5
+22,  422,  784,   c6,    control 6
+23,  522,  784,   a6,    anchor 6

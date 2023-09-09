@@ -1,0 +1,41 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   sslig2_lc geometric "|3" (080823)
+ 1,  720,    0,  TBUR,   typebox upper right
+ 2,  720, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  720,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  720,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  720,  321,  VHR,    cap-height (right)
+10,  153,    0,  SPCL,   space left (Vorbreite)
+11,  541,    0,  SPCR,   space right (Nachbreite)
+12,  153,  986,   a1,    anchor 1
+13,  153,  986,   c1,    control 1
+14,  153,  474,   c2,    control 2
+15,  153,  474,   a2,    anchor 2
+16,  153,  474,   a3,    anchor 3
+17,  153,  376,   c3,    control 3
+18,  232,  308,   c4,    control 4
+19,  323,  308,   a4,    anchor 4
+20,  323,  308,   a5,    anchor 5
+21,  426,  308,   c5,    control 5
+22,  496,  384,   c6,    control 6
+23,  496,  468,   a6,    anchor 6
+24,  496,  468,   a7,    anchor 7
+25,  496,  631,   c7,    control 7
+26,  312,  623,   c8,    control 8
+27,  312,  623,   a8,    anchor 8
+28,  312,  623,   a9,    anchor 9
+29,  457,  623,   c9,    control 9
+30,  541,  698,   c10,   control 10
+31,  541,  807,   a10,   anchor 10
+32,  541,  807,   a11,   anchor 11
+33,  541,  900,   c11,   control 11
+34,  464,  987,   c12,   control 12
+35,  353,  987,   a12,   anchor 12
+36,  353,  987,   a13,   anchor 13
+37,  353,  987,   c13,   control 13
+38,  336,  987,   c14,   control 14
+39,  336,  987,   a14,   anchor 14

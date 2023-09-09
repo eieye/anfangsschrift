@@ -1,0 +1,68 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   g_lcalt1 REV 03-SEP-23
+ 1,  620,    0,  TBUR,   typebox upper right
+ 2,  620, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  620,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  620,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  620,  321,  VHR,    cap-height (right)
+10,  114,    0,  SPCL,   space left (Vorbreite)
+11,  552,    0,  SPCR,   space right (Nachbreite)
+
+12,  327,  476,   a1,    anchor 1 <top "o">
+13,  273,  478,   c1,    control 1 X-5
+14,  153,  517,   c2,    control 2
+15,  153,  631,   a2,    anchor 2
+
+16,  153,  631,   a3,    anchor 3
+17,  153,  715,   c3,    control 3
+18,  235,  781,   c4,    control 4
+19,  335,  781,   a4,    anchor 4
+
+20,  335,  781,   a5,    anchor 5
+21,  435,  781,   c5,    control 5
+22,  516,  715,   c6,    control 6
+23,  516,  631,   a6,    anchor 6
+
+24,  516,  631,   a7,    anchor 7
+25,  516,  505,   c7,    control 7
+26,  400,  479,   c8,    control 8 X+5
+27,  362,  476,   a8,    anchor 8 ##TBD## X=326 NEAR CLOSE TOP "o"
+
+28,  362,  476,   a9,    anchor 9 ##TBD## X=326 <schniepel>
+29,  423,  476,   c9,    control 9 X+50
+30,  513,  476,   c10,   control 10 X-50
+31,  558,  476,   a10,   anchor 10
+
+32,  292,  776,   a11,   anchor 11 ##TBD## CHANGE STEP <bottom "s">
+33,  233,  772,   c11,   control 11
+34,  152,  805,   c12,   control 12
+35,  152,  861,   a12,   anchor 12
+
+36,  152,  861,   a13,   anchor 13
+37,  152,  934,   c13,   control 13
+38,  247,  949,   c14,   control 14
+39,  354,  951,   a14,   anchor 14
+
+40,  354,  951,   a15,   anchor 15
+41,  444,  953,   c15,   control 15
+42,  553,  974,   c16,   control 16
+43,  553, 1081,   a16,   anchor 16
+
+44,  553, 1081,   a17,   anchor 17
+45,  553, 1192,   c17,   control 17
+46,  428, 1232,   c18,   control 18
+47,  325, 1232,   a18,   anchor 18
+
+48,  325, 1232,   a19,   anchor 19
+49,  177, 1232,   c19,   control 19
+50,  115, 1147,   c20,   control 20
+51,  115, 1088,   a20,   anchor 20
+
+52,  115, 1088,   a21,   anchor 21
+53,  115, 1015,   c21,   control 21
+54,  165,  962,   c22,   control 22
+55,  236,  938,   a22,   anchor 22

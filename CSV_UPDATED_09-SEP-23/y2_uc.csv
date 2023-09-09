@@ -1,0 +1,25 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   y2_uc (080823)
+ 1,  636,    0,  TBUR,   typebox upper right
+ 2,  636, 1480, TBLR,    typebox lower right
+ 3,    0, 1480, TBLL,    typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  636,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  636,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  636,  321,  VHR,    cap-height (right)
+10,   71,    0,  SPCL,   space/pos left (Vorbreite)
+11,  566,    0,  SPCR,   space/pos right (Nachbreite)
+12,   71,  318,   a1,    anchor 1
+13,   71,  318,   c1,    control 1
+14, 318.5, 695,   c2,    control 2
+15, 318.5, 695,   a2,    anchor 2
+16, 318.5, 695,   a3,    anchor 3
+17, 318.5, 695,   c3,    control 3
+18,  566,  318,   c4,    control 4
+19,  566,  318,   a4,    anchor 4
+20, 318.5, 695,   a5,    anchor 5
+21, 318.5, 695,   c5,    control 5
+22, 318.5, 985.5, c6,    control 6
+23, 318.5, 985.5, a6,    anchor 6

@@ -1,0 +1,33 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   e2_lc (271018) 080823
+ 1,  592,    0,  TBUR,   typebox upper right
+ 2,  592, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  592,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  592,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  592,  321,  VHR,    cap-height (right)
+10, 99.5,    0,  SPCL,   space left (Vorbreite)
+11,  504,    0,  SPCR,   space right (Nachbreite)
+12,  100,  718,   a1,    anchor 1
+13,  100,  718,   c1,    control 1
+14,  504,  718,   c2,    control 2
+15,  504,  718,   a2,    anchor 2
+16,  504,  718,   a3,    anchor 3
+17,  504,  590,   c3,    control 3
+18,  443,  478,   c4,    control 4
+19, 303.5, 478,   a4,    anchor 4
+20, 303.5, 478,   a5,    anchor 5
+21,  183,  478,   c5,    control 5
+22, 99.5,  587,   c6,    control 6
+23, 99.5, 736.5,  a6,    anchor 6
+24, 99.5, 736.5,  a6,    anchor 7
+25, 99.5,  856,   c7,    control 7
+26,  173,  984,   c8,    control 8
+27,  324,  984,   a8,    anchor 8
+28,  324,  984,   a9,    anchor 9
+29,  413,  984,   c9,    control 9
+30,  463,  959,   c10,   control 10
+31, 494.5, 941.5, a10,   anchor 10

@@ -1,0 +1,17 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   i_uc (100823)
+ 1,  297,    0,  TBUR,   typebox upper right
+ 2,  297, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  297,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  297,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  297,  321,  VHR,    cap-height (right)
+10,  129,    0,  SPCL,   space left (Vorbreite)
+11,  129,    0,  SPCR,   space right (Nachbreite)
+12,  129,  317,   a1,    anchor 1
+13,  129,  317,   c1,    control 1
+14,  129,  985.5, c2,    control 2
+15,  129,  985.5, a2,    anchor 2

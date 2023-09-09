@@ -1,0 +1,29 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   j2_lc (100823)
+ 1,  330,    0,  TBUR,   typebox upper right
+ 2,  330, 1480, TBLR,    typebox lower right
+ 3,    0, 1480, TBLL,    typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  330,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  330,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  330,  321,  VHR,    cap-height (right)
+10,   80,    0,  SPCL,   space left (Vorbreite)
+11,  211,    0,  SPCR,   space right (Nachbreite)
+12,  206,  481,   a1,    anchor 1
+13,  206,  481,   c1,    control 1
+14,  206, 1026,   c2,    control 2
+15,  206, 1091,   a2,    anchor 2
+16,  206, 1091,   a3,    anchor 3
+17,  206, 1156,   c3,    control 3
+18,  156, 1211,   c4,    control 4
+19, 87.5, 1211,   a4,    anchor 4
+20, 87.5, 1211,   a5,    anchor 5
+21, 87.5, 1211,   c5,    control 5
+22,   80, 1211,   c6,    control 6
+23,   80, 1211,   a6,    anchor 6
+24,  202,  293,   a7,    anchor 7 <dia>
+25,  202,  293,   c7,    control 7
+26,  211,  286,   c8,    control 8
+27,  211,  286,   a8,    anchor 8

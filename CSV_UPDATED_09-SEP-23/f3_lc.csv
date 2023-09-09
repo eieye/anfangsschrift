@@ -1,0 +1,29 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   f3_lc(TEMP) 230723 (100823)
+ 1,  434,    0,  TBUR,   typebox upper right
+ 2,  434, 1480, TBLR,    typebox lower right
+ 3,    0, 1480, TBLL,    typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  434,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  434,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  434,  321,  VHR,    cap-height (right)
+10,   87,    0,  SPCL,   space left (Vorbreite)
+11,  366,    0,  SPCR,   space right (Nachbreite)
+12,  366,  253.5, a1,    anchor 1
+13,  366,  253.5, c1,    control 1
+14,  317,  253.5, c2,    control 2
+15,  317,  253.5, a2,    anchor 2
+16,  317,  253.5, a3,    anchor 3
+17, 249.5, 253.5, c3,    control 3
+18, 197.5, 307,   c4,    control 4
+19, 197.5, 373,   a4,    anchor 4
+20, 197.5, 373,   a5,    anchor 5
+21, 197.5, 373,   c5,    control 5
+22, 197.5, 985.5, c6,    control 6
+23, 197.5, 985.5, a6,    anchor 6
+24,  87,   481,   a7,    anchor 7
+25,  87,   481,   c7,    control 7
+26,  358,  481,   c8,    control 8
+27,  358,  481,   a8,    anchor 8

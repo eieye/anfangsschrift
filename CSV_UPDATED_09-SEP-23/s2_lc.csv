@@ -1,0 +1,43 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   s_lc REV 030923
+ 1,  504,    0,  TBUR,   typebox upper right
+ 2,  504, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  504,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  504,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  504,  321,  VHR,    cap-height (right)
+10,   94,    0,  SPCL,   space left (Vorbreite)
+11,  408,    0,  SPCR,   space right (Nachbreite)
+
+12,  385,  523,   a1,    anchor 1
+13,  348,  490,   c1,    control 1
+14,  299,  477,   c2,    control 2
+15,  258,  477,   a2,    anchor 2
+
+16,  258,  477,   a3,    anchor 3
+17,  155,  477,   c3,    control 3
+18,  105,  546,   c4,    control 4
+19,  105,  601,   a4,    anchor 4
+
+20,  105,  601,   a5,    anchor 5
+21,  105,  671,   c5,    control 5
+22,  164,  704,   c6,    control 6 #o--#
+23,  254,  725,   a6,    anchor 6 #--x--#
+
+24,  254,  725,   a7,    anchor 7 #--x--#
+25,  347,  747,   c7,    control 7 #--o# y-0.5
+26,  408,  786,   c8,    control 8
+27,  408,  861,   a8,    anchor 8
+
+28,  408,  861,   a9,    anchor 9
+29,  408,  920,   c9,    control 9
+30,  355,  988,   c10,   control 10
+31,  249,  988,   a10,   anchor 10
+
+32,  249,  988,   a11,   anchor 11
+33,  187,  988,   c11,   control 11
+34,  131,  967,   c12,   control 12
+35,   94,  929,   a12,   anchor 12

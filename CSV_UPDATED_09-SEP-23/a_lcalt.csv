@@ -1,0 +1,48 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   a_lcalt REVISION2 29AUG23
+ 1,  624,    0,  TBUR,   typebox upper right
+ 2,  624, 1480,  TBLR,   typebox lower right
+ 3,    0, 1480,  TBLL,   typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  624,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  624,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  624,  321,  VHR,    cap-height (right)
+10,  120,    0,  SPCL,   space left (Vorbreite)
+11,  481,    0,  SPCR,   space right (Nachbreite)
+
+12,  148,  542,   a1,    anchor 1
+13,  180,  511,   c1,    control 1
+14,  234,  478,   c2,    control 2
+15,  302,  478,   a2,    anchor 2
+
+16,  302,  478,   a3,    anchor 3
+17,  384,  478,   c3,    control 3
+18,  477,  528,   c4,    control 4
+19,  478,  663,   a4,    anchor 4
+
+20,  478,  663,   a5,    anchor 5
+21,  479,  752,   c5,    control 5
+22,  481,  904,   c6,    control 6
+23,  481,  980,   a6,    anchor 6
+
+24,  476,  690,   a7,    anchor 7 ##SEGMENT2##
+25,  445,  692,   c7,    control 7
+26,  381,  696,   c8,    control 8 #-#
+27,  334,  698,   a8,    anchor 8 #.#
+
+28,  334,  698,   a9,    anchor 9 #.#
+29,  228,  706,   c9,    control 9 #-#
+30,  121,  743,   c10,   control 10
+31,  121,  847,   a10,   anchor 10
+
+32,  121,  847,   a11,   anchor 11
+33,  121,  937,   c11,   control 11
+34,  198,  985,   c12,   control 12
+35,  274,  985,   a12,   anchor 12
+
+36,  274,  985,   a13,   anchor 13
+37,  363,  985,   c13,   control 13
+38,  438,  921,   c14,   control 14
+39,  477,  876,   a14,   anchor 14

@@ -1,0 +1,29 @@
+id,    x,    y,  pt,     comment
+ 0,    0,    0,  TBUL,   jalt_uc (100823)
+ 1,  563,    0,  TBUR,   typebox upper right
+ 2,  563, 1480, TBLR,    typebox lower right
+ 3,    0, 1480, TBLL,    typebox lower left
+ 4,    0,  982,  BLL,    baseline (left)
+ 5,  563,  982,  BLR,    baseline (right)
+ 6,    0,  481,  XHL,    x-height (left)
+ 7,  563,  481,  XHR,    x-height (right)
+ 8,    0,  321,  VHL,    cap-height (left)
+ 9,  563,  321,  VHR,    cap-height (right)
+10,   78,    0,  SPCL,   space left (Vorbreite)
+11,  438,    0,  SPCR,   space right (Nachbreite)
+12,  132,  321,   a1,    anchor 1
+13,  132,  321,   c1,    control 1
+14,  438,  321,   c2,    control 2
+15,  438,  321,   a2,    anchor 2
+16,  438,  321,   a3,    anchor 3
+17,  438,  321,   c3,    control 3
+18,  438,  795,   c4,    control 4
+19,  438,  811,   a4,    anchor 4
+20,  438,  811,   a5,    anchor 5
+21,  438,  913,   c5,    control 5
+22,  354,  994,   c6,    control 6
+23,  250,  994,   a6,    anchor 6
+24,  250,  994,   a7,    anchor 7
+25,  173,  994,   c7,    control 7
+26,  108,  949,   c8,    control 8
+27,   78,  886.5, a8,    anchor 8
