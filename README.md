@@ -1,4 +1,4 @@
-# anfangsschrift (09-SEP-2023)
+# Anfangsschrift (09-SEP-2023)
 File <a href="https://github.com/eieye/anfangsschrift/blob/main/full_alphabet.html" target="_blank">&ldquo;full_alphabet.html&rdquo;</a> contains all German upper and lowercase glyphs (A-Z ÄÖÜ, a-z äöüß) in svg/html format.
 (NOTE top row shows &ldquo;Anfangsschrift&rdquo; bottom row your device's system-ui font)
 
