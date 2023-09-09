@@ -1,0 +1,26 @@
+<svg id="o_uc" viewBox="0 0 732 1160" xmlns="http://www.w3.org/2000/svg">
+<style>@import url(svgimportstyles.css);</style>
+  <title>SVG IMPORT TEMPLATE (090923)</title>
+ <g class="typebox">
+  <rect width="732" height="1160" />
+  <line x1="0" y1="171" x2="732" y2="171" />
+  <line x1="0" y1="331" x2="732" y2="331" />
+  <line x1="0" y1="932" x2="732" y2="932" />
+ </g>
+ <g class="glyph">		
+  <path d="
+M 352 207.5 C 213 207.5 61 325 61 546
+C 61 781 213 894 352 894
+C 491 894 643 781 643 546
+C 643 325 491 207.5 352 207.5
+" />
+ </g>
+</svg>
+<!-- TO IMPORT GLYPH DATA FROM HTML TO A VECTOR EDITOR -->
+<!-- copy the complete svg-element <svg...>...</svg> from html to a new plain text file -->
+<!-- to be able to view the svg-file in a browser: -->
+<!-- insert the <style> tag as shown, keeping the linked css-file in the same folder -->
+<!-- to import the path data: -->
+<!-- open svg-file with your favorite vector or glyphs editor (styles will not be imported) -->
+
+

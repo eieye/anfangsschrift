@@ -1,0 +1,19 @@
+/* ADAPT THESE STYLES AS NEEDED THEN IMPORT SVG-FILE INTO VECTOR/GLYPHS EDITOR */
+/* (IN SVG NAMESPACE) */
+.typebox rect {
+	fill: none;
+	stroke: rgba(0 0 255 / 1);
+	stroke-width: 1px;
+}
+.typebox line {
+	fill: none;
+	stroke: rgba(0 0 255 / 1);
+	stroke-width: 1px;
+}
+.glyph {
+	fill: none;
+	stroke: rgba(100 255 100 / 0.75);
+	stroke-width: 100;
+	stroke-linecap: square; /* butt square round */
+	stroke-linejoin: round; /* bevel miter round */
+}
