@@ -1,0 +1,23 @@
+id,    x,    y,  pt,    comment
+ 0,    0,    0,  TBUL,  num7propo (210724)
+ 1,  556,    0,  TBUR,  typebox upper right
+ 2,  556, 1480,  TBLR,  typebox lower right
+ 3,    0, 1480,  TBLL,  typebox lower left
+ 4,    0,  982,  BLL,   baseline (left)
+ 5,  556,  982,  BLR,   baseline (right)
+ 6,    0,  481,  XHL,   x-height (left)
+ 7,  556,  481,  XHR,   x-height (right)
+ 8,    0,  321,  VHL,   cap-height (left)
+ 9,  556,  321,  VHR,   cap-height (right)
+10,   70,    0,  SPCL,  space left (Vorbreite)
+11,  474,    0,  SPCR,  space right (Nachbreite)
+
+12,   70,  321,  a1,    anchor 1
+13,  208,  320,  c1,    control 1
+14,  336,  319,  c2,    control 2
+15,  474,  318,  a2,    anchor 2
+
+16,  474,  318,  a3,    anchor 3
+17,  393,  543,  c3,    control 3
+18,  312,  765,  c4,    control 4
+19,  229,  990,  a4,    anchor 4

@@ -1,0 +1,23 @@
+id,    x,    y,  pt,    comment
+ 0,    0,    0,  TBUL,  num1proportional x=x-50 w=w-140
+ 1,  476,    0,  TBUR,  typebox upper right
+ 2,  476, 1480,  TBLR,  typebox lower right
+ 3,    0, 1480,  TBLL,  typebox lower left
+ 4,    0,  982,  BLL,   baseline (left)
+ 5,  476,  982,  BLR,   baseline (right)
+ 6,    0,  481,  XHL,   x-height (left)
+ 7,  476,  481,  XHR,   x-height (right)
+ 8,    0,  321,  VHL,   cap-height (left)
+ 9,  476,  321,  VHR,   cap-height (right)
+10,  105,    0,  SPCL,  space left (Vorbreite)
+11,  310,    0,  SPCR,  space right (Nachbreite)
+
+12,  105,  431,  a1,    anchor 1
+13,  172,  389,  c1,    control 1
+14,  240,  347,  c2,    control 2
+15,  307,  307,  a2,    anchor 2
+
+16,  307,  307,  a3,    anchor 3
+17,  308,  536,  c3,    control 3
+18,  309,  764,  c4,    control 4
+19,  310,  992,  a4,    anchor 4

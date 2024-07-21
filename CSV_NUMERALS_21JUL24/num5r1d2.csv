@@ -1,0 +1,43 @@
+id,    x,    y,  pt,    comment
+ 0,    0,    0,  TBUL,  num5b (200724)
+ 1,  616,    0,  TBUR,  typebox upper right
+ 2,  616, 1480,  TBLR,  typebox lower right
+ 3,    0, 1480,  TBLL,  typebox lower left
+ 4,    0,  982,  BLL,   baseline (left)
+ 5,  616,  982,  BLR,   baseline (right)
+ 6,    0,  481,  XHL,   x-height (left)
+ 7,  616,  481,  XHR,   x-height (right)
+ 8,    0,  321,  VHL,   cap-height (left)
+ 9,  616,  321,  VHR,   cap-height (right)
+10,  121,    0,  SPCL,  space left (Vorbreite)
+11,  499,    0,  SPCR,  space right (Nachbreite)
+
+12,  124,  321,  a1,    anchor 1
+13,  123,  398,  c1,    control 1
+14,  122,  551,  c2,    control 2
+15,  121,  637,  a2,    anchor 2
+
+16,  121,  637,  a3,    anchor 3
+17,  123,  635,  c3,    control 3
+18,  193,  562,  c4,    control 4
+19,  291,  562,  a4,    anchor 4
+
+20,  291,  562,  a5,    anchor 5
+21,  392,  562,  c5,    control 5
+22,  499,  651,  c6,    control 6
+23,  499,  783,  a6,    anchor 6
+
+24,  499,  783,  a7,    anchor 7
+25,  499,  939,  c7,    control 7
+26,  375, 1004,  c8,    control 8
+27,  290, 1004,  a8,    anchor 8
+
+28,  290, 1004,  a9,    anchor 9
+29,  176, 1004,  c9,    control 9
+30,  125,  926,  c10,   control 10 r1d2
+31,  124,  924,  a10,   anchor 10
+
+32,  132,  321,  a11,   anchor 11
+33,  239,  321,  c11,   control 11
+34,  340,  321,  c12,   control 12
+35,  447,  321,  a12,   anchor 12
