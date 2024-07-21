@@ -8,9 +8,9 @@ Letter shapes are deliberately &lsquo;prototypical&rsquo; (generic) for maximum 
 
 Emphasis is on &lsquo;smooth&rsquo; proportions inducing hand-writing and building graphomotor intuition for stroke sequence and direction, based on a slightly narrower &lsquo;less geometric&rsquo; overall width.
 
-The font can be used for animation (stroke-wise instruction) and tracing (touch-responsive overwriting), using vanilla CSS-animation attributes and Javascript. A demo is linked at <a href="https://www.jenskreitmeyer.de/alpha/beta/ANIMATION_MOBILE/loadglyphs.html">here</a> (in desktop browsers turn on touch-sim).
+The font can be used for animation (stroke-wise instruction) and tracing (touch-responsive overwriting), using vanilla CSS-animation attributes and Javascript. A demo is linked <a href="https://www.jenskreitmeyer.de/alpha/beta/ANIMATION_MOBILE/loadglyphs.html">here</a> (in desktop browsers turn on touch-simulation in dev tools).
 
-Letter shapes are defined by cubic bezier segments describing a single centerline. To convert this (svg) to a normal outline font, use the template from this repository, set a fixed line weight and import the curves in your favorite vector/glyphs editor.
-Figures (indo-arabic numerals), punctuation marks (?!) and (&) some special symbols (@#) will be added in the next version.
+Letter shapes are defined by cubic bezier segments defining a single *centerline*. To convert this (svg) to a normal *outline* font, use the template from this repository, set a fixed line weight and import the curves in your favorite vector/glyphs editor.
+Numerals added. Preview <a href="https://www.jenskreitmeyer.de/alpha/ANFANGSSCHRIFT/numerals.html" target="_blank">here</a> (top: Anfangsschrift, bottom: system-UI). Punctuation marks (?!) and (&) some special symbols (@#) will follow with the next version.
 
 
