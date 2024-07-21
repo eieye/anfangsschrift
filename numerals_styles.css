@@ -1,0 +1,123 @@
+/* UPLOAD STAND SAT 20-JUL-24 */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+																	/* ### CHANGES FROM CHAT_GPT CODE ### */
+body, html {
+	/* height: 100%; */  																/* COMMENTED // NO EFFECT */
+	box-sizing: border-box; 														/* ADDED // (STILL CUTS INTO BORDER WIDTH WHEN 100%) */
+}
+
+.svg-container {
+  display: flex;
+  align-items: center;
+ 																/* JUSTIFY "CENTER" WAS ODD CHOICE */
+ 														/* PROBABLY "DEFAULT MAJORITY AESTHETIC" */
+  justify-content: left; 															/* CHANGED FROM "CENTER" TO "LEFT" */
+  height: 50vh; 																			/* Set the height to half of the viewport height */
+	width: 100%; /* ### */
+
+  								/* CONTENT (TOP ROW) OUTSIDE INITIAL VIEW-WIDTH REMAINS HIDDEN */
+  														/* WHEN SCROLLING WINDOW (BOTTOM ROW) */
+  overflow-x: scroll; 													/* Enable horizontal scrolling if needed // DEFAULT IS "AUTO" */
+  overflow-y: hidden;  																/* ADDED // SEEMS TO ELIMINATE VERTICAL OVERFLOW */
+}
+
+
+.svg-element {
+  height: 99.25%; 																		/* Set the height to 100% to match the container height */
+  																										/* USING 99 TO GET TOP AND BTM BORDER DISPLAYED */
+  /* width: auto; */ 																	/* SVG will scale proportionally based on the height */
+  																										/* COMMENTED // IS DEFAULT */
+ 																		/* THIS IS THE ## MAJOR ## HIT! */	
+  flex-shrink: 0; 																		/* Prevent elements from shrinking to fit */
+  border: 0px dashed rgba(200 200 200 / .5); 					/* ADDED FOR VIZ ONLY */
+}
+
+
+
+p {
+/* PLATFORM-DEPENDENT DEFAULT FOR UI (MAC_OS = SF PRO) */
+	font-family: system-UI;
+	line-height: 0.96;
+/* SF PRO TEXT/DISPLAY */
+	/* font-family: SF Pro Text; */
+	/* font-family: SF Pro Display; */ /* SMALLER X-HEIGHT */
+	/* line-height: 1; */
+
+/* ZDF TYPE */
+	/* font-family: ZDF Type; */
+	/* font-family: ZDF Type Cond; */
+	/* line-height: 1.01; */
+/* REAL */
+	/* font-family: Real Text Pro; */
+	/* line-height: 1.11; */
+/* HELVETICA */
+	/* font-family: Helvetica; */
+	/* line-height: 1.18; */
+}
+
+.base {
+	font-weight: 500; /* 400 = REGULAR // 500 = MEDIUM */
+	font-size: 45.2vh;
+	color: rgba(100 255 100 / .75);
+	border: 0px solid rgba(0 0 255 / 1);
+}
+
+
+
+
+																		/* EFFECTING BASELINE SHIFT */
+.typewrapper {
+	height: 99%;
+	vertical-align: top;
+	border: 1px solid rgba(255 0 0 / 1);
+}
+
+
+
+
+
+
+																			/* (IN SVG NAMESPACE) */
+.typebox rect {
+	fill: none;
+	stroke: rgba(0 0 255 / 1);
+	stroke-width: 1px;
+}
+
+.typebox line {
+	fill: none;
+	stroke: rgba(0 0 255 / 1);
+	stroke-width: 1px;
+}
+
+.glyph {
+	fill: none;
+	stroke: rgba(100 255 100 / 0.75);
+	stroke-width: 100;
+	stroke-linecap: square; /* butt square round */
+	stroke-linejoin: round; /* bevel miter round */
+}
+
+													/* OVERRIDE FOR TEST OF EXTENDED CURVED TERMINALS */
+ .extended {
+ 	stroke-linecap: butt; /* butt square round */
+ 	stroke-linejoin: bevel; /* bevel miter round */
+ }
+
+
+/* SAME AS "TYPEBOX" BUT DIFFERENT COLORS */
+.overlay rect {
+	fill: none;
+	stroke: rgba(255 0 0 / 1);
+	stroke-width: 1px;
+}
+
+.overlay line {
+	fill: none;
+	stroke: rgba(255 0 0 / 1);
+	stroke-width: 1px;
+}
